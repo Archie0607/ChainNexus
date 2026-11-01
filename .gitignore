@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Secrets
+.env
+.streamlit/secrets.toml
+
+# Large model artifacts
+artifacts/models/*.joblib
+artifacts/models/*.keras
+
+# Dataset
+data/*.csv

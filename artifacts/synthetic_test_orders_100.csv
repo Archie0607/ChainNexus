@@ -1,0 +1,101 @@
+﻿Type,Days for shipment (scheduled),Category Name,Customer Segment,Department Name,Market,Order Region,Order Item Discount Rate,Order Item Quantity,Order Item Product Price,Shipping Mode
+TRANSFER,4,Golf Gloves,Consumer,Fan Shop,LATAM,Southern Africa,0.05,1,9.99,Standard Class
+PAYMENT,0,Fishing,Corporate,Fitness,Pacific Asia,Central Asia,0.0,1,79.99,Second Class
+PAYMENT,2,Golf Shoes,Corporate,Fitness,Pacific Asia,West Asia,0.12,3,24.99,Same Day
+DEBIT,2,Fishing,Corporate,Fitness,Africa,Caribbean,0.03,2,499.99,Second Class
+DEBIT,0,Golf Balls,Corporate,Golf,USCA,East of USA,0.12,2,59.99,First Class
+CASH,6,Boxing & MMA,Consumer,Footwear,Africa,Southern Europe,0.25,2,129.99,Second Class
+TRANSFER,0,Shop By Sport,Corporate,Apparel,LATAM,Eastern Asia,0.2,2,9.99,Second Class
+TRANSFER,4,Golf Shoes,Home Office,Fan Shop,Africa,Oceania,0.0,5,59.99,Standard Class
+TRANSFER,6,Hockey,Consumer,Footwear,Africa,Eastern Asia,0.25,1,49.98,Standard Class
+TRANSFER,0,Golf Gloves,Home Office,Apparel,USCA,East Africa,0.17,1,24.99,Second Class
+DEBIT,4,Golf Apparel,Corporate,Apparel,LATAM,Canada,0.2,2,59.99,First Class
+CASH,4,Fishing,Home Office,Apparel,LATAM,Central Asia,0.2,2,49.98,Second Class
+CASH,4,Electronics,Corporate,Footwear,LATAM,West Asia,0.15,1,49.98,First Class
+TRANSFER,6,Golf Balls,Home Office,Fan Shop,LATAM,West Asia,0.2,2,79.99,First Class
+PAYMENT,2,Girls' Apparel,Consumer,Fan Shop,LATAM,Central America,0.15,2,24.99,Second Class
+TRANSFER,2,Fishing,Corporate,Outdoors,Pacific Asia,Northern Europe,0.17,1,129.99,First Class
+PAYMENT,6,Golf Balls,Consumer,Fitness,Pacific Asia,South America,0.17,4,9.99,Same Day
+PAYMENT,2,Trade-In,Home Office,Fan Shop,LATAM,Eastern Asia,0.03,1,49.98,Second Class
+DEBIT,0,Golf Shoes,Home Office,Apparel,Africa,Oceania,0.05,1,79.99,Second Class
+TRANSFER,6,Tennis & Racquet,Consumer,Fan Shop,Europe,Southeast Asia,0.09,4,59.99,Standard Class
+CASH,6,Men's Footwear,Consumer,Golf,USCA,South America,0.17,2,59.99,Second Class
+TRANSFER,4,Hockey,Consumer,Fitness,LATAM,Central Africa,0.2,4,499.99,Second Class
+CASH,4,Fishing,Home Office,Fitness,LATAM,Caribbean,0.2,5,9.99,First Class
+TRANSFER,2,Cardio Equipment,Home Office,Fan Shop,Europe,West of USA,0.15,3,299.98,First Class
+TRANSFER,0,Fitness Accessories,Consumer,Fitness,Pacific Asia,Eastern Asia,0.15,2,99.99,Standard Class
+DEBIT,6,Indoor/Outdoor Games,Corporate,Fan Shop,Pacific Asia,West Asia,0.2,5,299.98,Standard Class
+PAYMENT,6,Golf Shoes,Home Office,Fitness,LATAM,Canada,0.25,2,499.99,Second Class
+DEBIT,0,Women's Apparel,Home Office,Fan Shop,Europe,Southern Africa,0.25,1,59.99,Second Class
+PAYMENT,4,Fishing,Consumer,Apparel,Europe,Eastern Asia,0.09,2,24.99,First Class
+TRANSFER,6,Water Sports,Consumer,Golf,USCA,North Africa,0.09,2,24.99,First Class
+DEBIT,2,Tennis & Racquet,Home Office,Fan Shop,Africa,Northern Europe,0.15,2,199.99,Same Day
+TRANSFER,6,Hunting & Shooting,Home Office,Fan Shop,LATAM,South Asia,0.15,3,49.98,First Class
+PAYMENT,2,Hunting & Shooting,Home Office,Apparel,USCA,West of USA,0.12,3,79.99,First Class
+CASH,6,Baseball & Softball,Corporate,Footwear,Europe,West Africa,0.17,3,59.99,Standard Class
+PAYMENT,0,Men's Footwear,Home Office,Fitness,Europe,West Asia,0.25,4,59.99,Second Class
+TRANSFER,0,Accessories,Corporate,Footwear,Africa,Eastern Europe,0.03,1,9.99,Second Class
+PAYMENT,6,Golf Balls,Corporate,Fan Shop,Africa,West Asia,0.12,2,199.99,Second Class
+TRANSFER,6,Hunting & Shooting,Home Office,Golf,Pacific Asia,East of USA,0.03,1,199.99,Standard Class
+TRANSFER,6,Electronics,Corporate,Apparel,Africa,North Africa,0.09,2,499.99,Standard Class
+CASH,4,Cleats,Corporate,Outdoors,Europe,Eastern Europe,0.17,2,24.99,Second Class
+TRANSFER,0,Tennis & Racquet,Consumer,Golf,USCA,West of USA,0.0,3,499.99,Standard Class
+DEBIT,6,Lacrosse,Corporate,Outdoors,Europe,West of USA,0.0,4,99.99,Standard Class
+PAYMENT,6,Tennis & Racquet,Consumer,Outdoors,Europe,North Africa,0.25,1,99.99,First Class
+TRANSFER,4,Accessories,Corporate,Fan Shop,Pacific Asia,Northern Europe,0.15,5,24.99,First Class
+TRANSFER,6,Hunting & Shooting,Consumer,Footwear,Pacific Asia,South Asia,0.05,1,199.99,Same Day
+TRANSFER,0,Hockey,Corporate,Fitness,USCA,South Asia,0.05,2,499.99,First Class
+CASH,0,Girls' Apparel,Home Office,Fan Shop,Pacific Asia,Oceania,0.09,1,9.99,Standard Class
+DEBIT,4,Hockey,Home Office,Fitness,USCA,Caribbean,0.2,1,79.99,Second Class
+CASH,6,Accessories,Consumer,Golf,Europe,Central Africa,0.12,1,129.99,Same Day
+DEBIT,2,Fishing,Corporate,Apparel,LATAM,Southern Africa,0.25,5,99.99,Standard Class
+PAYMENT,0,Camping & Hiking,Home Office,Fan Shop,LATAM,South of  USA,0.2,1,49.98,Second Class
+TRANSFER,6,Women's Apparel,Corporate,Outdoors,LATAM,Caribbean,0.25,5,24.99,First Class
+DEBIT,0,Indoor/Outdoor Games,Corporate,Apparel,USCA,Western Europe,0.05,3,79.99,Same Day
+DEBIT,2,Girls' Apparel,Corporate,Fan Shop,USCA,West Africa,0.2,1,299.98,Same Day
+TRANSFER,6,Women's Apparel,Consumer,Footwear,Pacific Asia,Central Asia,0.09,2,24.99,Same Day
+PAYMENT,2,Trade-In,Home Office,Fan Shop,Pacific Asia,Central America,0.05,1,79.99,First Class
+CASH,6,Hockey,Corporate,Fan Shop,Pacific Asia,Southern Africa,0.25,2,19.99,Same Day
+TRANSFER,4,Hockey,Home Office,Outdoors,Pacific Asia,Central Asia,0.2,2,299.98,Second Class
+CASH,4,Fishing,Home Office,Golf,Pacific Asia,US Center,0.25,3,199.99,Second Class
+CASH,6,Hunting & Shooting,Consumer,Golf,LATAM,Northern Europe,0.09,1,299.98,Same Day
+CASH,2,Lacrosse,Corporate,Fitness,USCA,South Asia,0.12,2,99.99,Standard Class
+CASH,4,Water Sports,Consumer,Footwear,USCA,Oceania,0.25,2,299.98,Second Class
+PAYMENT,2,Water Sports,Home Office,Golf,LATAM,North Africa,0.09,5,9.99,Standard Class
+DEBIT,0,Golf Apparel,Consumer,Fitness,Europe,West Africa,0.17,2,9.99,Standard Class
+CASH,4,Baseball & Softball,Home Office,Golf,USCA,Eastern Europe,0.0,4,499.99,Standard Class
+PAYMENT,4,Hunting & Shooting,Consumer,Fitness,Africa,East of USA,0.15,4,24.99,Standard Class
+DEBIT,2,Electronics,Consumer,Golf,Europe,East of USA,0.05,4,9.99,First Class
+TRANSFER,6,Baseball & Softball,Corporate,Golf,USCA,Eastern Europe,0.03,3,49.98,First Class
+TRANSFER,6,Camping & Hiking,Home Office,Golf,Africa,Caribbean,0.17,5,299.98,Standard Class
+TRANSFER,6,Accessories,Consumer,Fitness,Pacific Asia,Central America,0.05,2,499.99,First Class
+TRANSFER,0,Baseball & Softball,Corporate,Fan Shop,LATAM,Northern Europe,0.05,5,24.99,Second Class
+DEBIT,6,Boxing & MMA,Corporate,Outdoors,Pacific Asia,Central America,0.09,5,79.99,Same Day
+TRANSFER,4,Men's Footwear,Corporate,Golf,Africa,Northern Europe,0.15,3,129.99,Same Day
+TRANSFER,6,Water Sports,Consumer,Golf,Africa,Western Europe,0.0,1,99.99,Second Class
+CASH,0,Boxing & MMA,Home Office,Outdoors,Africa,Eastern Asia,0.09,2,79.99,First Class
+DEBIT,2,Boxing & MMA,Consumer,Fitness,Africa,South of  USA,0.17,1,199.99,Same Day
+TRANSFER,2,Cardio Equipment,Consumer,Apparel,Africa,Eastern Asia,0.25,5,24.99,Second Class
+DEBIT,0,Golf Shoes,Consumer,Golf,Africa,Southeast Asia,0.09,1,499.99,First Class
+PAYMENT,2,Fitness Accessories,Corporate,Outdoors,USCA,Western Europe,0.03,3,199.99,Second Class
+PAYMENT,0,Boxing & MMA,Consumer,Footwear,USCA,West Asia,0.17,4,49.98,First Class
+DEBIT,6,Girls' Apparel,Home Office,Fitness,LATAM,Southern Europe,0.05,2,24.99,Same Day
+TRANSFER,0,Indoor/Outdoor Games,Consumer,Fitness,LATAM,South America,0.15,2,299.98,Same Day
+DEBIT,0,Baseball & Softball,Consumer,Golf,LATAM,Caribbean,0.05,2,129.99,Same Day
+CASH,6,Women's Apparel,Home Office,Outdoors,Pacific Asia,South America,0.2,1,199.99,Second Class
+CASH,4,Fitness Accessories,Home Office,Fan Shop,LATAM,Caribbean,0.03,2,129.99,First Class
+DEBIT,2,Hockey,Corporate,Fitness,LATAM,South America,0.15,1,24.99,First Class
+DEBIT,2,Girls' Apparel,Home Office,Fitness,Africa,West of USA,0.25,2,49.98,First Class
+PAYMENT,2,Fishing,Consumer,Apparel,Pacific Asia,Central America,0.17,2,129.99,Same Day
+CASH,0,Accessories,Home Office,Footwear,LATAM,South of  USA,0.05,2,59.99,Second Class
+TRANSFER,4,Indoor/Outdoor Games,Consumer,Fitness,Africa,East of USA,0.03,1,99.99,First Class
+TRANSFER,0,Accessories,Home Office,Footwear,LATAM,Oceania,0.2,2,19.99,Same Day
+PAYMENT,6,Cardio Equipment,Consumer,Fitness,USCA,Central Asia,0.03,1,99.99,Same Day
+CASH,0,Boxing & MMA,Corporate,Fitness,USCA,North Africa,0.25,2,59.99,First Class
+CASH,2,Golf Shoes,Consumer,Fan Shop,LATAM,Central Africa,0.09,4,299.98,Second Class
+PAYMENT,2,Fishing,Consumer,Apparel,USCA,Central Africa,0.17,2,199.99,Standard Class
+CASH,6,Tennis & Racquet,Home Office,Footwear,USCA,Oceania,0.03,3,299.98,First Class
+TRANSFER,4,Boxing & MMA,Home Office,Golf,USCA,East Africa,0.15,3,129.99,Second Class
+DEBIT,0,Golf Balls,Corporate,Fitness,LATAM,Southern Europe,0.25,5,9.99,Same Day
+PAYMENT,2,Golf Balls,Corporate,Golf,LATAM,South of  USA,0.12,2,499.99,Same Day
+PAYMENT,0,Hockey,Corporate,Outdoors,LATAM,West Africa,0.09,2,49.98,Second Class

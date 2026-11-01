@@ -1,0 +1,80 @@
+{
+  "trained_at": "2026-11-01T14:55:42.431573Z",
+  "dataset_rows_after_cleaning": 180519,
+  "train_rows": 126363,
+  "validation_rows": 27078,
+  "test_rows": 27078,
+  "feature_count": 11,
+  "features": [
+    "Type",
+    "Days for shipment (scheduled)",
+    "Category Name",
+    "Customer Segment",
+    "Department Name",
+    "Market",
+    "Order Region",
+    "Order Item Discount Rate",
+    "Order Item Quantity",
+    "Order Item Product Price",
+    "Shipping Mode"
+  ],
+  "split_method": "chronological 70/15/15",
+  "selected_model": "MLP + Embedding",
+  "selected_threshold": 0.34000000000000014,
+  "hyperparameter_tuning": {
+    "logistic_regression_best_params": {
+      "model__solver": "liblinear",
+      "model__class_weight": null,
+      "model__C": 0.01
+    },
+    "logistic_regression_best_cv_f1": 0.6677908844112602,
+    "random_forest_best_params": {
+      "model__n_estimators": 200,
+      "model__min_samples_split": 10,
+      "model__min_samples_leaf": 1,
+      "model__max_depth": null,
+      "model__class_weight": "balanced"
+    },
+    "random_forest_best_cv_f1": 0.677485563874144,
+    "mlp_best_config": {
+      "learning_rate": 0.0005,
+      "dropout1": 0.2,
+      "dropout2": 0.2,
+      "dense1": 128,
+      "dense2": 64,
+      "dense3": 32,
+      "batch_size": 128
+    },
+    "mlp_validation_f1_at_0_5": 0.6480871125203388
+  },
+  "test_metrics": [
+    {
+      "Model": "MLP + Embedding",
+      "Threshold": 0.34000000000000014,
+      "Accuracy": 0.5823177487259029,
+      "Precision": 0.5740282248081208,
+      "Recall": 0.9337494965767217,
+      "F1": 0.7109782275375651,
+      "ROC_AUC": 0.7399415202357971
+    },
+    {
+      "Model": "Random Forest",
+      "Threshold": 0.5,
+      "Accuracy": 0.673831154442721,
+      "Precision": 0.7630072840790842,
+      "Recall": 0.5906161900926299,
+      "F1": 0.6658342792281499,
+      "ROC_AUC": 0.7254784945952124
+    },
+    {
+      "Model": "Logistic Regression",
+      "Threshold": 0.5,
+      "Accuracy": 0.6930349361104956,
+      "Precision": 0.8384378211716341,
+      "Recall": 0.5475902805745738,
+      "F1": 0.6624979697904824,
+      "ROC_AUC": 0.7432804399969051
+    }
+  ],
+  "target_definition": "Late_delivery_risk: 1=late risk, 0=not late"
+}

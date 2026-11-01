@@ -1,0 +1,4 @@
+Model,Best CV F1,Best Parameters
+Logistic Regression,0.6677908844112602,"{'model__solver': 'liblinear', 'model__class_weight': None, 'model__C': 0.01}"
+Random Forest,0.677485563874144,"{'model__n_estimators': 200, 'model__min_samples_split': 10, 'model__min_samples_leaf': 1, 'model__max_depth': None, 'model__class_weight': 'balanced'}"
+MLP + Embedding,,"{'learning_rate': 0.0005, 'dropout1': 0.2, 'dropout2': 0.2, 'dense1': 128, 'dense2': 64, 'dense3': 32, 'batch_size': 128}"

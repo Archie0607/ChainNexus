@@ -1,0 +1,6 @@
+Type,Days for shipment (scheduled),Category Name,Customer Segment,Department Name,Market,Order Region,Order Item Discount Rate,Order Item Quantity,Order Item Product Price,Shipping Mode
+CASH,4,Camping & Hiking,Consumer,Fan Shop,LATAM,Central America,0.200000003,1,299.980011,Standard Class
+PAYMENT,4,Water Sports,Consumer,Fan Shop,LATAM,South America,0.029999999,1,199.9900055,Standard Class
+PAYMENT,4,Women's Apparel,Consumer,Golf,LATAM,South America,0.090000004,5,50.0,Standard Class
+PAYMENT,4,Men's Footwear,Consumer,Apparel,LATAM,South America,0.170000002,1,129.9900055,Standard Class
+CASH,4,Indoor/Outdoor Games,Home Office,Fan Shop,LATAM,South America,0.200000003,4,49.97999954,Standard Class
